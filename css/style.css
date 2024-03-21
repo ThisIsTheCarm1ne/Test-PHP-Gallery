@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  flex-direction: column;
+  gap: 5vh;
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+}
+
+.gallery_feed {
+  display: flex;
+  width: 50%;
+  height: 15vh;
+  gap: 1vw;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
+
+.feed_item {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+
+.image {
+  height: 100%;
+  width: auto;
+}
+
+button {
+  background: 0;
+  border: 0;
+}

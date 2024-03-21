@@ -1,0 +1,15 @@
+{
+    "name": "carm1ne/test_gallery",
+    "description": "A test gallery to build with smarty and php",
+    "type": "project",
+    "require": {
+        "smarty/smarty": "^4.4"
+    },
+    "license": "GPL3.0",
+    "authors": [
+        {
+            "name": "ThisIsTheCarm1ne",
+            "email": "100percentcoder@proton.me"
+        }
+    ]
+}
